@@ -1,4 +1,4 @@
 streamlit
 pandas
 numpy
-fastf1
+fastf1==3.1.5
