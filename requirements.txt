@@ -1,4 +1,4 @@
-fastf1
 streamlit
 pandas
 numpy
+fastf1
